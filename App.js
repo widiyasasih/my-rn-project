@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>My RN Project</Text>
+      <Text>My RN Project - First Testing</Text>
     </View>
   );
 }
